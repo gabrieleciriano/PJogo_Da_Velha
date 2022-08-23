@@ -1,0 +1,16 @@
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\bin\Debug\net5.0\PJogo_Da_Velha.exe
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\bin\Debug\net5.0\PJogo_Da_Velha.deps.json
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\bin\Debug\net5.0\PJogo_Da_Velha.runtimeconfig.json
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\bin\Debug\net5.0\PJogo_Da_Velha.runtimeconfig.dev.json
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\bin\Debug\net5.0\PJogo_Da_Velha.dll
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\bin\Debug\net5.0\PJogo_Da_Velha.pdb
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\PJogo_Da_Velha.csproj.AssemblyReference.cache
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\PJogo_Da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\PJogo_Da_Velha.AssemblyInfoInputs.cache
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\PJogo_Da_Velha.AssemblyInfo.cs
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\PJogo_Da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\PJogo_Da_Velha.dll
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\refint\PJogo_Da_Velha.dll
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\PJogo_Da_Velha.pdb
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\PJogo_Da_Velha.genruntimeconfig.cache
+C:\Users\Gabriele Ciriano\source\repos\PJogo_Da_Velha\PJogo_Da_Velha\obj\Debug\net5.0\ref\PJogo_Da_Velha.dll
